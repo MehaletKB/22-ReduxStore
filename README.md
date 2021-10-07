@@ -26,7 +26,7 @@ This app requires the following dependencies:
 ![Screenshot](./Assets/22-reduxstore.gif)
 
 ## Link
-https://mehaletkb.github.io/20-PortfolioR/
+https://dry-gorge-91198.herokuapp.com/
 
 ## Contact
 
